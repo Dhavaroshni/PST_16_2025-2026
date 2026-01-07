@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="add 2 no"/>
+        <attribute name="authors" value="HP"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-01-06 10:16:48 am"/>
+        <attribute name="created" value="SFA7REVTS1RPUC1PODY1VDFJOzIwMjYtMDEtMDY7MDk6NDM6MTUgYW07MjUxNQ=="/>
+        <attribute name="edited" value="SFA7REVTS1RPUC1PODY1VDFJOzIwMjYtMDEtMDY7MTA6MTY6NDggYW07NjsyNjI2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a" type="Integer" array="False" size=""/>
+            <input variable="a"/>
+            <declare name="b" type="Integer" array="False" size=""/>
+            <input variable="b"/>
+            <output expression="a-b" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
